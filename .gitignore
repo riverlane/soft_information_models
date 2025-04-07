@@ -1,0 +1,18 @@
+# IDE specific things
+.vscode/
+
+# Build artifacts
+.mypy_cache
+.pytest_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Tests / coverage reports
+.coverage
+.coverage*
+*.xml
+*.log
+
+# Jupyter Notebook
+*.ipynb_checkpoints
