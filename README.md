@@ -1,6 +1,6 @@
 # Supplementary material for "Reducing quantum error correction overhead using soft information"
 
-This repository contains Python code for generating synthetic soft measurement samples from quantum error correction circuits, as presented in the paper ["Reducing quantum error correction overhead using soft information"](http://arxiv.org/abs/2504.03504) by Joonas Majaniemi and Elisha S. Matekole.
+This repository contains Python code for generating synthetic soft measurement samples from quantum error correction circuits, as presented in the paper ["Reducing quantum error correction overhead using soft information"](https://doi.org/10.1088/2058-9565/ae4e55) by Joonas Majaniemi and Elisha S. Matekole.
 
 ## Repository structure
 
@@ -23,8 +23,9 @@ poetry run pytest
 
 ## Citation
 
-Joonas Majaniemi and Elisha S. Matekole, _Reducing quantum error correction overhead using soft information_, (2025) arXiv:2504.03504.
+Joonas Majaniemi and Elisha S Matekole 2026 Quantum Sci. Technol. 11 025024.
+DOI 10.1088/2058-9565/ae4e55
 
 ## Notice
 
-(c) Copyright Riverlane 2022-2025. All rights reserved.
+(c) Copyright Riverlane 2022-2026. All rights reserved.
